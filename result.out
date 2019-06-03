@@ -1,0 +1,66 @@
+Q1, Istanbul, Van, 2, H
+Istanbul, H, Ankara, H, Hatay, A, Kayseri, A, Van
+Istanbul, H, Ankara, A, Hatay, H, Van
+Istanbul, H, Ankara, H, Hatay, H, Van
+Istanbul, R, Ankara, H, Hatay, H, Van
+Istanbul, H, Ankara, H, Kayseri, A, Van
+Q2, Antalya, Van, Kayseri
+Antalya, A, Izmir, A, Ankara, A, Hatay, A, Kayseri, A, Van
+Antalya, A, Izmir, A, Ankara, H, Hatay, A, Kayseri, A, Van
+Antalya, A, Izmir, R, Ankara, A, Hatay, A, Kayseri, A, Van
+Antalya, A, Izmir, R, Ankara, H, Hatay, A, Kayseri, A, Van
+Antalya, H, Izmir, A, Ankara, A, Hatay, A, Kayseri, A, Van
+Antalya, H, Izmir, A, Ankara, H, Hatay, A, Kayseri, A, Van
+Antalya, H, Izmir, R, Ankara, A, Hatay, A, Kayseri, A, Van
+Antalya, H, Izmir, R, Ankara, H, Hatay, A, Kayseri, A, Van
+Antalya, R, Izmir, A, Ankara, A, Hatay, A, Kayseri, A, Van
+Antalya, R, Izmir, A, Ankara, H, Hatay, A, Kayseri, A, Van
+Antalya, R, Izmir, R, Ankara, A, Hatay, A, Kayseri, A, Van
+Antalya, R, Izmir, R, Ankara, H, Hatay, A, Kayseri, A, Van
+Antalya, A, Izmir, A, Ankara, A, Samsun, A, Kayseri, A, Van
+Antalya, A, Izmir, A, Ankara, A, Samsun, R, Kayseri, A, Van
+Antalya, A, Izmir, R, Ankara, A, Samsun, A, Kayseri, A, Van
+Antalya, A, Izmir, R, Ankara, A, Samsun, R, Kayseri, A, Van
+Antalya, H, Izmir, A, Ankara, A, Samsun, A, Kayseri, A, Van
+Antalya, H, Izmir, A, Ankara, A, Samsun, R, Kayseri, A, Van
+Antalya, H, Izmir, R, Ankara, A, Samsun, A, Kayseri, A, Van
+Antalya, H, Izmir, R, Ankara, A, Samsun, R, Kayseri, A, Van
+Antalya, R, Izmir, A, Ankara, A, Samsun, A, Kayseri, A, Van
+Antalya, R, Izmir, A, Ankara, A, Samsun, R, Kayseri, A, Van
+Antalya, R, Izmir, R, Ankara, A, Samsun, A, Kayseri, A, Van
+Antalya, R, Izmir, R, Ankara, A, Samsun, R, Kayseri, A, Van
+Antalya, A, Izmir, A, Ankara, H, Kayseri, A, Van
+Antalya, A, Izmir, A, Ankara, R, Kayseri, A, Van
+Antalya, A, Izmir, R, Ankara, H, Kayseri, A, Van
+Antalya, A, Izmir, R, Ankara, R, Kayseri, A, Van
+Antalya, H, Izmir, A, Ankara, H, Kayseri, A, Van
+Antalya, H, Izmir, A, Ankara, R, Kayseri, A, Van
+Antalya, H, Izmir, R, Ankara, H, Kayseri, A, Van
+Antalya, H, Izmir, R, Ankara, R, Kayseri, A, Van
+Antalya, R, Izmir, A, Ankara, H, Kayseri, A, Van
+Antalya, R, Izmir, A, Ankara, R, Kayseri, A, Van
+Antalya, R, Izmir, R, Ankara, H, Kayseri, A, Van
+Antalya, R, Izmir, R, Ankara, R, Kayseri, A, Van
+Antalya, H, Ankara, A, Hatay, A, Kayseri, A, Van
+Antalya, H, Ankara, A, Hatay, H, Kayseri, A, Van
+Antalya, H, Ankara, A, Samsun, A, Kayseri, A, Van
+Antalya, H, Ankara, A, Samsun, R, Kayseri, A, Van
+Antalya, H, Ankara, H, Kayseri, A, Van
+Antalya, H, Ankara, R, Kayseri, A, Van
+Q3, Izmir, Van, A
+Izmir, A, Ankara, A, Hatay, A, Kayseri, A, Van
+Izmir, A, Ankara, A, Samsun, A, Kayseri, A, Van
+Q4, Antalya, Van, A3, H1, R0
+Antalya, A, Izmir, A, Ankara, A, Hatay, H, Van
+Antalya, A, Izmir, A, Ankara, H, Kayseri, A, Van
+Antalya, H, Ankara, A, Hatay, A, Kayseri, A, Van
+Antalya, H, Ankara, A, Samsun, A, Kayseri, A, Van
+PRINTGRAPH
+Istanbul --> Ankara 
+Izmir --> Ankara 
+Ankara --> Hatay Samsun Kayseri 
+Antalya --> Izmir Ankara 
+Kayseri --> Van 
+Hatay --> Kayseri Van 
+Samsun --> Kayseri Van 
+Van --> 

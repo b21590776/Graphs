@@ -1,0 +1,29 @@
+Airway	
+Istanbul 00000000
+Izmir 00100000
+Ankara 00000110
+Antalya 01000000
+Kayseri 00000001
+Hatay 00001000
+Samsun 00001000
+Van 00000000								
+
+Highway									
+Istanbul 00100000
+Izmir 00000000
+Ankara 00001100
+Antalya 01100000
+Kayseri 00000000
+Hatay 00000001
+Samsun 00000000
+Van 00000000
+
+Railway									
+Istanbul 00100000
+Izmir 00100000
+Ankara 00001000
+Antalya 01000000
+Kayseri 00000000
+Hatay 00000000
+Samsun 00001001
+Van 00000000
